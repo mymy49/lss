@@ -1,0 +1,10 @@
+*.o
+*.d
+*.a
+*.bak
+*~
+THUMB Debug
+THUMB Release
+*.map
+*.elf
+
